@@ -1,0 +1,41 @@
+Company,Website,Industry,City,State,Country,Employee Count,Estimated Revenue,Revenue Confidence,BBB Rating,Owner Name,Owner Title,Email,Phone,LinkedIn URL
+KEYSTONE COMMERCIAL INC,keystonecommercialinc.example.com,Commercial Cleaning,Columbus,OH,United States,,$808K,High,B,Thomas Foster,President,info@keystonecommercialinc.example.com,(616) 617-1816,
+Heritage Wholesale LLC,heritagewholesalellc.example.com,Wholesale Distribution,Columbus,OH,United States,1-13,$0.5M,High,A-,,,,(813) 609-7267,https://www.linkedin.com/company/heritagewholesalellc
+Heritage Software LLC,https://www.heritagesoftwarellc.example.com,Software,Milwaukee,WI,United States,16,,High,,Michael Reyes,Owner/Operator,info@heritagesoftwarellc.example.com,,
+Blue Ridge Accounting Services,https://www.blueridgeaccountingservi.example.com,Accounting,Tampa,FL,United States,9,$1680K,Medium,,David Bennett,Founder,david@blueridgeaccountingservi.example.com,(616) 771-7274,
+Pioneer Pest Group,,Pest Control,Dallas,TX,United States,175+,"20,472,234",Medium,A,Patricia Murphy,Founder,,(813) 571-3376,
+Lakeside IT LLC,lakesideitllc.example.com,IT Services,Milwaukee,WI,United States,,11M-18M,Low,A,,,,(208) 217-3296,
+CARDINAL ACCOUNTING LLC,cardinalaccountingllc.example.com,Accounting,Dallas,TX,United States,,16M-26M,Medium,,Patricia Romero,Owner/Operator,patricia@cardinalaccountingllc.example.com,(602) 704-5554,
+Redwood Software Services,https://www.redwoodsoftwareservices.example.com,Software,Dallas,TX,United States,44,$4.1M,High,A,,,info@redwoodsoftwareservices.example.com,(303) 599-1275,
+Copper Creek Pest Services,https://www.coppercreekpestservices.example.com,Pest Control,Raleigh,NC,United States,59,"7,951,230",Medium,NR,,,,(704) 723-6306,
+Copper Creek Wholesale LLC,coppercreekwholesalellc.example.com,Wholesale Distribution,Tampa,FL,United States,60+,10M-17M,High,A-,,,,(616) 872-8158,https://www.linkedin.com/company/coppercreekwholesalellc
+GRANITE WHOLESALE,granitewholesale.example.com,Wholesale Distribution,Phoenix,AZ,United States,,,Low,A+,Richard Reyes,CEO,richard@granitewholesale.example.com,(616) 877-7903,
+Evergreen Trucking Group,https://www.evergreentruckinggroup.example.com,Trucking & Logistics,Charlotte,NC,United States,77,,Low,A-,David Hansen,Founder,david@evergreentruckinggroup.example.com,(615) 297-8142,https://www.linkedin.com/company/evergreentruckinggroup
+Northstar Plumbing LLC,https://www.northstarplumbingllc.example.com,Plumbing,Tucson,AZ,United States,,,Medium,A+,Robert Foster,CEO,info@northstarplumbingllc.example.com,,
+Copper Creek Electrical Co.,https://www.coppercreekelectricalco.example.com,Electrical Contractor,Dallas,TX,United States,,6M-10M,Medium,B,,,,(616) 325-3145,
+Redwood Landscaping Services,https://www.redwoodlandscapingservic.example.com,Landscaping,Dallas,TX,United States,54,8M-13M,Medium,A+,,,,(208) 865-6960,https://www.linkedin.com/company/redwoodlandscapingservic
+Silverline Accounting Group,https://www.silverlineaccountinggrou.example.com,Accounting,Tucson,AZ,United States,,"8,605,839",Medium,,Barbara Patel,President,barbara@silverlineaccountinggrou.example.com,(214) 225-7868,
+Lakeside Landscaping LLC,https://www.lakesidelandscapingllc.example.com,Landscaping,Charlotte,NC,United States,61+,"9,542,796",Low,A-,,,,(616) 396-4521,https://www.linkedin.com/company/lakesidelandscapingllc
+MERIDIAN ACCOUNTING SERVICES,https://www.meridianaccountingservic.example.com,Accounting,Boise,ID,United States,,$6367K,Medium,NR,Michael Reyes,Owner,,(704) 307-2346,https://www.linkedin.com/company/meridianaccountingservic
+Evergreen IT LLC,https://www.evergreenitllc.example.com,IT Services,Grand Rapids,MI,United States,,12M-19M,High,B,,,info@evergreenitllc.example.com,,https://www.linkedin.com/company/evergreenitllc
+Evergreen Plumbing Services,https://www.evergreenplumbingservice.example.com,Plumbing,Dallas,TX,United States,94+,$14.4M,High,NR,,,info@evergreenplumbingservice.example.com,(615) 333-9090,https://www.linkedin.com/company/evergreenplumbingservice
+Silverline Electrical LLC,,Electrical Contractor,Grand Rapids,MI,United States,,$0.9M,Low,NR,,,info@silverlineelectricalllc.example.com,(214) 590-6133,
+Keystone Software Co.,https://www.keystonesoftwareco.example.com,Software,Tampa,FL,United States,76-91,,Low,B,Robert Hansen,Founder,robert@keystonesoftwareco.example.com,,https://www.linkedin.com/company/keystonesoftwareco
+Frontier Software Group,frontiersoftwaregroup.example.com,Software,Boise,ID,United States,32-47,7M-12M,Medium,B,Michael Nguyen,Owner,info@frontiersoftwaregroup.example.com,(813) 444-5954,https://www.linkedin.com/company/frontiersoftwaregroup
+Ironwood Trucking Group,ironwoodtruckinggroup.example.com,Trucking & Logistics,Raleigh,NC,United States,123,19M-30M,Low,A,Barbara Schmidt,Owner/Operator,barbara@ironwoodtruckinggroup.example.com,(303) 839-1066,https://www.linkedin.com/company/ironwoodtruckinggroup
+Blue Ridge Electrical Group,blueridgeelectricalgroup.example.com,Electrical Contractor,Phoenix,AZ,United States,49+,,Low,A-,,,info@blueridgeelectricalgroup.example.com,(414) 838-9966,
+Northstar Plumbing,northstarplumbing.example.com,Plumbing,Denver,CO,United States,14,,Low,A,Karen Brooks,Owner/Operator,karen@northstarplumbing.example.com,,
+Harbor Software LLC,https://www.harborsoftwarellc.example.com,Software,Charlotte,NC,United States,48,$5616K,Medium,B,,,info@harborsoftwarellc.example.com,(704) 571-5814,
+Prairie Dental LLC,prairiedentalllc.example.com,Dental Practice,Charlotte,NC,United States,58,$12.0M,Low,A,Michael Hansen,President,michael@prairiedentalllc.example.com,,https://www.linkedin.com/company/prairiedentalllc
+Prairie Precision Inc,prairieprecisioninc.example.com,Precision Machining,Dallas,TX,United States,,7M-11M,High,B,Joseph Reyes,President,joseph@prairieprecisioninc.example.com,,
+Ironwood Roofing LLC,ironwoodroofingllc.example.com,Roofing,Charlotte,NC,United States,,9M-14M,High,B,,,info@ironwoodroofingllc.example.com,(704) 429-2937,https://www.linkedin.com/company/ironwoodroofingllc
+Beacon Precision Services,https://www.beaconprecisionservices.example.com,Precision Machining,Boise,ID,United States,106+,"12,568,785",High,A,,,info@beaconprecisionservices.example.com,,https://www.linkedin.com/company/beaconprecisionservices
+Redwood Roofing,redwoodroofing.example.com,Roofing,Raleigh,NC,United States,18-33,"4,984,184",Medium,,Thomas Carter,President,thomas@redwoodroofing.example.com,,https://www.linkedin.com/company/redwoodroofing
+Oakmont Electrical Co.,https://www.oakmontelectricalco.example.com,Electrical Contractor,Columbus,OH,United States,55+,"10,247,234",Medium,A+,Joseph Alvarez,Owner,,,
+Frontier Landscaping,https://www.frontierlandscaping.example.com,Landscaping,Phoenix,AZ,United States,,,Low,A-,Nancy Bennett,CEO,info@frontierlandscaping.example.com,(602) 810-9562,https://www.linkedin.com/company/frontierlandscaping
+GRANITE PRECISION CO.,https://www.graniteprecisionco.example.com,Precision Machining,Tampa,FL,United States,24+,"4,087,973",Low,A,Karen Fischer,Owner,karen@graniteprecisionco.example.com,(303) 797-7218,
+Blue Ridge Commercial,https://www.blueridgecommercial.example.com,Commercial Cleaning,Denver,CO,United States,3,$0.4M,Low,A+,Richard Alvarez,Owner/Operator,info@blueridgecommercial.example.com,,
+EVERGREEN TRUCKING GROUP,https://www.evergreentruckinggroup.example.com,Trucking & Logistics,Columbus,OH,United States,,$1466K,High,B,Daniel Kowalski,CEO,daniel@evergreentruckinggroup.example.com,(813) 719-3279,https://www.linkedin.com/company/evergreentruckinggroup
+Ironwood Dental,ironwooddental.example.com,Dental Practice,Boise,ID,United States,,$42506K,High,A+,Susan Delgado,Owner/Operator,susan@ironwooddental.example.com,(303) 336-4695,
+Blue Ridge Accounting Services ,HTTP://WWW.BLUERIDGEACCOUNTINGSERVI.EXAMPLE.COM/,Accounting,Tampa,FL,USA,,,,,,,,,
+Redwood Software Services,,Software,Dallas,TX,United States,44,$4.1M,,,,,,(303) 599-1275,
